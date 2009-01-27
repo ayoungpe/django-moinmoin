@@ -1,6 +1,4 @@
 #labels Featured,Phase-Deploy
-#Apache2.2 config example
-
 = Introduction =
 
 Here is an example apache configuration for hosting Django and Moinmoin on the same virtual machine. It took me a while to sort it all out, so I'm copying it here too.
